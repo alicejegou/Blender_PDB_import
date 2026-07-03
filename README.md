@@ -14,5 +14,5 @@ You can change atoms random scaling (EX: `scale = random.uniform(0.5, 1.5)`)
 Once your atoms loaded, we can easily join them together and get unique protein object to manipulate 
 
 <video width="320" height="240" controls>
-  <source src="media/video_blender_bzip.mp4" type="video/mp4">
+  <source src="video_blender_bzip.mp4" type="video/mp4">
 </video>
